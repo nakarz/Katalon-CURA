@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Fill-Incorrect-Form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90c8abf1-8c01-4855-9493-7bdecf3c6a25</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>22c4feef-f700-426f-9852-a6a75641ed06</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b5a1ca4-529e-44ea-90d7-bbbcb11838c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Dowy'</defaultValue>
+      <description></description>
+      <id>22c4feef-f700-426f-9852-a6a75641ed06</id>
+      <masked>false</masked>
+      <name>incorrect_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsAPassword'</defaultValue>
+      <description></description>
+      <id>8b5a1ca4-529e-44ea-90d7-bbbcb11838c7</id>
+      <masked>false</masked>
+      <name>incorrect_password</name>
+   </variable>
+</TestCaseEntity>

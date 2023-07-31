@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check if user can click on Toggle Menu in Home page</description>
+   <name>Login_Toggle-Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e4cb24a-60da-4bae-a9a2-574aaa22c594</testCaseGuid>
+</TestCaseEntity>
